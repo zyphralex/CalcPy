@@ -34,14 +34,20 @@ CalcPy — это современное настольное приложени
 
 ## ⚡ Запуск
 
-1. **Скачай репозиторий:**
+1. **Скачай Tkinter:**
+
+   ```
+   pkg install python-tkinter
+   ```
+
+2. **Скачай репозиторий:**
 
     ```
     git clone https://github.com/zyphralex/CalcPy
     cd CalcPy
     ```
 
-2. **Запусти приложение:**
+3. **Запусти приложение:**
 
     ```
     python CalcPy.py
